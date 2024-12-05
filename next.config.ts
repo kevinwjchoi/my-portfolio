@@ -1,9 +1,8 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
-  basePath: '/my-portfolio',  // Set the base path to your repo name
-  trailingSlash: true,        // Optionally add trailing slash for clean URLs
-};
+  output: 'export', // Enable static export
+}
 
-export default nextConfig;
+export default nextConfig
