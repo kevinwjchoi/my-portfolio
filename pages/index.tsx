@@ -5,10 +5,13 @@ import Hero from '@/Components/Hero';
 import About from '@/Components/About';
 import Services from '@/Components/Services';
 import Skills from '@/Components/Skills';
-import Projects from '@/Components/Projects';
-import Testimonials from '@/Components/Testimonials';
-import Blog from '@/Components/Blog';
+
 import Footer from '@/Components/Footer';
+
+// import Projects from '@/Components/Projects';
+// import Testimonials from '@/Components/Testimonials';
+// import Blog from '@/Components/Blog';
+
 
 const HomePage = () => {
 

@@ -1,4 +1,4 @@
-import { DevicePhoneMobileIcon, EnvelopeIcon, MapIcon } from '@heroicons/react/20/solid'
+import {  EnvelopeIcon } from '@heroicons/react/20/solid'
 import React from 'react'
 import { FaLinkedin, FaGithub } from 'react-icons/fa';
 
