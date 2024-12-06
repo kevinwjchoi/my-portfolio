@@ -19,7 +19,7 @@ const About = () => {
                     My journey into software engineering began with a bold leap from the mortgage industry into tech—a decision fueled by my desire for a more dynamic, creative, and challenging career. Along the way, I’ve gained experience in Python, JavaScript, TypeScript, Flask, React, Next.js, and cloud technologies like AWS, combining my problem-solving skills with a passion for innovation.
                     <br/>
                     <br/>
-                    Transitioning from the mortgage industry to full-stack development taught me the value of adaptability and perseverance. Whether collaborating with a team or tackling a complex solo project, I bring a solution-driven mindset and a commitment to continuous learning.
+                    The transition to full-stack development taught me the value of adaptability and perseverance. Whether collaborating with a team or tackling a complex solo project, I bring a solution-driven mindset and a commitment to continuous learning.
                     <br/>
                     <br/>
                     Outside of coding, I find inspiration in the outdoors—hiking, kayaking with my dog, and staying active through boxing and cycling. These experiences fuel my creativity and drive to transform ambitious ideas into reality.                
